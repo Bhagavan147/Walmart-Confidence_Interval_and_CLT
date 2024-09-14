@@ -1,1 +1,1 @@
-# Walmart-Confidence_Interval_and_CLT
+# Walmart - Confidence Interval and CLT
